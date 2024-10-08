@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+    text-align: start;
+    
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+
+h3{
+    color: brown;
+    text-align:end;
+}
+
+p{
+    color: cadetblue;
+    text-decoration: double;
+    text-align: justify;
+}
+#good-day{
+    text-transform: capitalize;
+    font-size:50px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
