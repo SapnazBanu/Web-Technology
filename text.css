@@ -4,16 +4,6 @@ h1{
     
 }
 
-h2{
-    color: blue;
-    text-align: center;
-}
-
-h3{
-    color: brown;
-    text-align:end;
-}
-
 p{
     color: cadetblue;
     text-decoration: double;
@@ -25,4 +15,43 @@ p{
     font-style: italic;
     font-weight: lighter;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Paragraph{
+    color: chartreuse;
+    border: 1px solid black;
+    height:150px;
+    width:150px;
+    overflow: scroll;
+    padding:10px;
+
+}
+
+.create-box{
+    height: 100px;
+    width:100px;
+    border: 50px;color:yellow ;
+    background-color: pink;
+}
+
+div{
+    margin-top: 50%;
+    margin-left:50%;
+    margin-right:50%;
+    margin-bottom: 50%;
+
+    margin:50% 50% 50% 50%;
+}
+
+a:link{
+    color: cadetblue;
+}
+a:hover{
+    color:rgb(2, 2,10)
+}
+a:active{
+    color: blueviolet;
+}
+a:visited{
+    color: chartreuse;
 }
